@@ -4,19 +4,48 @@ layout: col-sidebar
 title: OWASP Enterprise DevSecOps
 tags: example-tag
 level: 1
-type: 
-pitch: A very brief, one-line description of your project
+type: other
+pitch: Enterprise Security Program Design with OWASP
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+INTRODUCTION
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+The main focus for this project is to explore strategic utilization
+of OWASP projects in enterprise with attention on DevSecOps,
+information security management systems and infrastructure-as-code.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+We will examine the components of DevSecOps, or namely:
+development lifecycles, security lifecycles, and business operations
+and then take a holistic approach to security program management by
+investigating the effectiveness of DevSecOps through the lens of each
+component.
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+This project will also explore enterprise security program concepts,
+compliance alignment planning, risk management activities,
+threat intelligence, vulnerability management, architecture and
+infrastructure, performance measurement, continuous monitoring,
+situational awareness, and security training.
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+I chose to lead this project because I am often posed with the
+question of what is OWASP, how is it used, and is it just for software
+developers? We will explore these questions and more as we set out to
+discover why cybersecurity is everyone's responsibility
+and how security controls effect policies and governance.
 
-type: code, tool, documentation, or other
+My name is Princeton Brooke and I welcome you along this journey.
+My career as a software programmer spans over 30 years.
+I was 8 years old when I landed my first job as a programmer for the
+Cleveland Public Schools system where I developed and maintained
+a student database that was utilized by most of the
+teachers in my school and was integrated into the school's office
+for administrative use. I was 13 when I landed my next programming
+gig as a database developer for the Cuyahoga County Board of Elections.
+
+My passion for strategy alignment for compliance and execution,
+security program design, and IT project management was fostered
+by several technical lead roles including strategy and compliance focused
+software and web developer positions in real-estate, higher education,
+federal contracting, and healthcare. It was across these positions
+that I experienced the power of teams and the goal of operational
+dynamics enabled by information systems.
