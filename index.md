@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Enterprise DevSecOps
 tags: example-tag
-level: 1
+level: 2
 type: other
 pitch: Enterprise Security Program Design with OWASP
 
